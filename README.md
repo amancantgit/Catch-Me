@@ -4,5 +4,5 @@ Catch me if you can is a kind of a game where you try to put your cursor over th
 
 Hosted link : https://amancantgit.github.io/Catch-Me/
 
-### Language Used :-
-HTML, CSS & Vanilla JavaScript
+## Language Used :-
+HTML, CSS & Vanilla JavaScript.
